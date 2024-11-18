@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timur-pc\\Documents\\ITMO\\\u0418\u0421\u0420\u041F\u041E\\lab_4\\project_for_lab\\lab4_isrpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0715FADE-0744-4E36-BC7A-656332AFC2B9}|lab4_isrpo.pyproj|C:\\Users\\timur-pc\\Documents\\ITMO\\\u0418\u0421\u0420\u041F\u041E\\lab_4\\project_for_lab\\lab4_isrpo\\rectangle.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0715FADE-0744-4E36-BC7A-656332AFC2B9}|lab4_isrpo.pyproj|solutionrelative:rectangle.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0715FADE-0744-4E36-BC7A-656332AFC2B9}|lab4_isrpo.pyproj|C:\\Users\\timur-pc\\Documents\\ITMO\\\u0418\u0421\u0420\u041F\u041E\\lab_4\\project_for_lab\\lab4_isrpo\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0715FADE-0744-4E36-BC7A-656332AFC2B9}|lab4_isrpo.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rectangle.py",
+              "DocumentMoniker": "C:\\Users\\timur-pc\\Documents\\ITMO\\\u0418\u0421\u0420\u041F\u041E\\lab_4\\project_for_lab\\lab4_isrpo\\rectangle.py",
+              "RelativeDocumentMoniker": "rectangle.py",
+              "ToolTip": "C:\\Users\\timur-pc\\Documents\\ITMO\\\u0418\u0421\u0420\u041F\u041E\\lab_4\\project_for_lab\\lab4_isrpo\\rectangle.py",
+              "RelativeToolTip": "rectangle.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T18:47:48.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\timur-pc\\Documents\\ITMO\\\u0418\u0421\u0420\u041F\u041E\\lab_4\\project_for_lab\\lab4_isrpo\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\timur-pc\\Documents\\ITMO\\\u0418\u0421\u0420\u041F\u041E\\lab_4\\project_for_lab\\lab4_isrpo\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T18:40:23.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
